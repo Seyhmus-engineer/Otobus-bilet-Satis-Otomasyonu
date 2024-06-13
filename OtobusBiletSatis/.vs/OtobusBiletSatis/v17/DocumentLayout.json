@@ -1,0 +1,90 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\fesih\\source\\repos\\OtobusBiletSatis\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{440CFD26-84B5-41D6-A42D-D8BEAED5CD18}|OtobusBiletSatis\\OtobusBiletSatis.csproj|c:\\users\\fesih\\source\\repos\\otobusbiletsatis\\otobusbiletsatis\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{440CFD26-84B5-41D6-A42D-D8BEAED5CD18}|OtobusBiletSatis\\OtobusBiletSatis.csproj|solutionrelative:otobusbiletsatis\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{440CFD26-84B5-41D6-A42D-D8BEAED5CD18}|OtobusBiletSatis\\OtobusBiletSatis.csproj|c:\\users\\fesih\\source\\repos\\otobusbiletsatis\\otobusbiletsatis\\kay\u0131tformu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{440CFD26-84B5-41D6-A42D-D8BEAED5CD18}|OtobusBiletSatis\\OtobusBiletSatis.csproj|solutionrelative:otobusbiletsatis\\kay\u0131tformu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{440CFD26-84B5-41D6-A42D-D8BEAED5CD18}|OtobusBiletSatis\\OtobusBiletSatis.csproj|c:\\users\\fesih\\source\\repos\\otobusbiletsatis\\otobusbiletsatis\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{440CFD26-84B5-41D6-A42D-D8BEAED5CD18}|OtobusBiletSatis\\OtobusBiletSatis.csproj|solutionrelative:otobusbiletsatis\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{440CFD26-84B5-41D6-A42D-D8BEAED5CD18}|OtobusBiletSatis\\OtobusBiletSatis.csproj|c:\\users\\fesih\\source\\repos\\otobusbiletsatis\\otobusbiletsatis\\kay\u0131tformu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{440CFD26-84B5-41D6-A42D-D8BEAED5CD18}|OtobusBiletSatis\\OtobusBiletSatis.csproj|solutionrelative:otobusbiletsatis\\kay\u0131tformu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "kay\u0131tFormu.cs",
+              "DocumentMoniker": "C:\\Users\\fesih\\source\\repos\\OtobusBiletSatis\\OtobusBiletSatis\\kay\u0131tFormu.cs",
+              "RelativeDocumentMoniker": "OtobusBiletSatis\\kay\u0131tFormu.cs",
+              "ToolTip": "C:\\Users\\fesih\\source\\repos\\OtobusBiletSatis\\OtobusBiletSatis\\kay\u0131tFormu.cs",
+              "RelativeToolTip": "OtobusBiletSatis\\kay\u0131tFormu.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABwAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T14:31:57.477Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\fesih\\source\\repos\\OtobusBiletSatis\\OtobusBiletSatis\\Form1.cs",
+              "RelativeDocumentMoniker": "OtobusBiletSatis\\Form1.cs",
+              "ToolTip": "C:\\Users\\fesih\\source\\repos\\OtobusBiletSatis\\OtobusBiletSatis\\Form1.cs",
+              "RelativeToolTip": "OtobusBiletSatis\\Form1.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAxwGgAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T13:19:58.974Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\fesih\\source\\repos\\OtobusBiletSatis\\OtobusBiletSatis\\Form1.cs",
+              "RelativeDocumentMoniker": "OtobusBiletSatis\\Form1.cs",
+              "ToolTip": "C:\\Users\\fesih\\source\\repos\\OtobusBiletSatis\\OtobusBiletSatis\\Form1.cs [Tasar\u0131m]",
+              "RelativeToolTip": "OtobusBiletSatis\\Form1.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T12:03:19.025Z",
+              "EditorCaption": " [Tasar\u0131m]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "kay\u0131tFormu.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\fesih\\source\\repos\\OtobusBiletSatis\\OtobusBiletSatis\\kay\u0131tFormu.cs",
+              "RelativeDocumentMoniker": "OtobusBiletSatis\\kay\u0131tFormu.cs",
+              "ToolTip": "C:\\Users\\fesih\\source\\repos\\OtobusBiletSatis\\OtobusBiletSatis\\kay\u0131tFormu.cs [Tasar\u0131m]",
+              "RelativeToolTip": "OtobusBiletSatis\\kay\u0131tFormu.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T12:39:53.098Z",
+              "EditorCaption": " [Tasar\u0131m]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
