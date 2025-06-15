@@ -25,10 +25,11 @@ namespace OTobüs_BileT_Rezervasyon_SiTtemi
 
         private void button4_Click(object sender, EventArgs e)
         {
-            dbkasaTable kas = db.dbkasaTable.FirstOrDefault();
+            var kas = db.dbkasaTable.FirstOrDefault();
             kas.Kasa += Convert.ToDecimal(textBox4.Text);
             db.SaveChanges();
-            MessageBox.Show("Yatırma işlemi başarıyla gerçekleşti!");
+            MessageBox.Show("Yatırma işlemi başarıyla gerçekleşti.", "", MessageBoxButtons.OK, MessageBoxIcon.Information);
+
         }
     }
 }

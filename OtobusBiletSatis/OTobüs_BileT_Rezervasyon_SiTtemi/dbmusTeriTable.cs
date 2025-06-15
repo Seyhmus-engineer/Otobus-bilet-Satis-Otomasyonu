@@ -23,9 +23,9 @@ namespace OTobüs_BileT_Rezervasyon_SiTtemi
         public string m_ad { get; set; }
         public string m_soyad { get; set; }
         public Nullable<bool> cinsiyeT { get; set; }
-        public Nullable<byte> phone { get; set; }
+        public Nullable<long> phone { get; set; }
         public string mail { get; set; }
-        public Nullable<byte> kimlikno { get; set; }
+        public Nullable<long> kimlikno { get; set; }
     
         public virtual ICollection<dberzervasyonTable> dberzervasyonTable { get; set; }
     }

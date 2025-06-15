@@ -137,6 +137,24 @@ namespace OTobüs_BileT_Rezervasyon_SiTtemi
                         textBox.Text = "";
                     }
                 }
+
+                rezervasyongorunum rr = new rezervasyongorunum();
+                var rezer = db.dberzervasyonTable
+                        .Include("dbmusTeriTable")
+                        .Include("dbseferTable.dbsehirTable")
+                        .ToList();
+
+                var rezerve = rezer.Select(r => new rezervasyongorunum
+                {
+                    ID = r.rezervasyonID,
+                    MusTeriID = r.dbmusTeriTable.m_ID,
+                    SeferID = r.dbseferTable.seferID,
+                    Koltuk_Numarası = r.kolTuknumara.ToString(),
+                    ÜcreT = r.ucreT,
+                    Tarih = r.rezervasyonTarihi
+                }).ToList();
+
+                dataGridView1.DataSource = rezerve;
             }
         }
     }

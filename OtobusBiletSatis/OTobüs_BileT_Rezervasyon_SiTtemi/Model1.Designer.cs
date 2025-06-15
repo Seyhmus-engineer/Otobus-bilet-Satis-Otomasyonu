@@ -1,4 +1,4 @@
-﻿// T4 code generation is enabled for model 'C:\Users\fesih\Downloads\OTobüs_BileT_Rezervasyon_SiTtemi\OTobüs_BileT_Rezervasyon_SiTtemi\Model1.edmx'. 
+﻿// T4 code generation is enabled for model 'C:\Users\fesih\OneDrive\Documents\C# proje\OtobusBiletSatis\OTobüs_BileT_Rezervasyon_SiTtemi\Model1.edmx'. 
 // To enable legacy code generation, change the value of the 'Code Generation Strategy' designer
 // property to 'Legacy ObjectContext'. This property is available in the Properties Window when the model
 // is open in the designer.

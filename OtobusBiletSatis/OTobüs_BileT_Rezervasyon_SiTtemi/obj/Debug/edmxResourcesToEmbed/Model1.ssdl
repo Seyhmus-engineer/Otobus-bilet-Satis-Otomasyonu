@@ -26,9 +26,9 @@
     <Property Name="m_ad" Type="varchar" MaxLength="30" />
     <Property Name="m_soyad" Type="varchar" MaxLength="30" />
     <Property Name="cinsiyeT" Type="bit" />
-    <Property Name="phone" Type="tinyint" />
+    <Property Name="phone" Type="bigint" />
     <Property Name="mail" Type="nvarchar" MaxLength="30" />
-    <Property Name="kimlikno" Type="tinyint" />
+    <Property Name="kimlikno" Type="bigint" />
   </EntityType>
   <EntityType Name="dboTobusTable">
     <Key>

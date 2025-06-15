@@ -4,7 +4,7 @@
   <edmx:Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
     <!-- Diagram content (shape and connector positions) -->
     <edmx:Diagrams>
-      <Diagram DiagramId="a3c3dd63bf8d417c9e960a5820d144ed" Name="Diagram1">
+      <Diagram DiagramId="af1046ce96dd4c8fba3fecdc6110d4fa" Name="Diagram1">
         <EntityTypeShape EntityType="OTobüs_BileT_Rezervasyon_SiTtemiModel.dberzervasyonTable" Width="1.5" PointX="5.25" PointY="1" IsExpanded="true" />
         <EntityTypeShape EntityType="OTobüs_BileT_Rezervasyon_SiTtemiModel.dbkasaTable" Width="1.5" PointX="5.75" PointY="4.75" IsExpanded="true" />
         <EntityTypeShape EntityType="OTobüs_BileT_Rezervasyon_SiTtemiModel.dbmusTeriTable" Width="1.5" PointX="3" PointY="5" IsExpanded="true" />

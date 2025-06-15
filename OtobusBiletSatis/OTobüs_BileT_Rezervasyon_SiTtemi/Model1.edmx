@@ -31,9 +31,9 @@
           <Property Name="m_ad" Type="varchar" MaxLength="30" />
           <Property Name="m_soyad" Type="varchar" MaxLength="30" />
           <Property Name="cinsiyeT" Type="bit" />
-          <Property Name="phone" Type="tinyint" />
+          <Property Name="phone" Type="bigint" />
           <Property Name="mail" Type="nvarchar" MaxLength="30" />
-          <Property Name="kimlikno" Type="tinyint" />
+          <Property Name="kimlikno" Type="bigint" />
         </EntityType>
         <EntityType Name="dboTobusTable">
           <Key>
@@ -229,9 +229,9 @@ FROM [dbo].[Tarihler] AS [Tarihler]</DefiningQuery>
           <Property Name="m_ad" Type="String" MaxLength="30" FixedLength="false" Unicode="false" />
           <Property Name="m_soyad" Type="String" MaxLength="30" FixedLength="false" Unicode="false" />
           <Property Name="cinsiyeT" Type="Boolean" />
-          <Property Name="phone" Type="Byte" />
+          <Property Name="phone" Type="Int64" />
           <Property Name="mail" Type="String" MaxLength="30" FixedLength="false" Unicode="true" />
-          <Property Name="kimlikno" Type="Byte" />
+          <Property Name="kimlikno" Type="Int64" />
           <NavigationProperty Name="dberzervasyonTable" Relationship="Self.FK_dberzervasyonTable_dbmusTeriTable" FromRole="dbmusTeriTable" ToRole="dberzervasyonTable" />
         </EntityType>
         <EntityType Name="dboTobusTable">

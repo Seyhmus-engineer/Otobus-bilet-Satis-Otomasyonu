@@ -28,9 +28,9 @@
     <Property Name="m_ad" Type="String" MaxLength="30" FixedLength="false" Unicode="false" />
     <Property Name="m_soyad" Type="String" MaxLength="30" FixedLength="false" Unicode="false" />
     <Property Name="cinsiyeT" Type="Boolean" />
-    <Property Name="phone" Type="Byte" />
+    <Property Name="phone" Type="Int64" />
     <Property Name="mail" Type="String" MaxLength="30" FixedLength="false" Unicode="true" />
-    <Property Name="kimlikno" Type="Byte" />
+    <Property Name="kimlikno" Type="Int64" />
     <NavigationProperty Name="dberzervasyonTable" Relationship="Self.FK_dberzervasyonTable_dbmusTeriTable" FromRole="dbmusTeriTable" ToRole="dberzervasyonTable" />
   </EntityType>
   <EntityType Name="dboTobusTable">
